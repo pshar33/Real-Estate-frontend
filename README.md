@@ -4,19 +4,19 @@ Code for frontend for a real estate app that allows CRUD operations using React.
 
 Eclipse IDE was used for development with Codemix plugin.
 
-### Code requirements
+## Code requirements
 
 * IDE that supports React project development(I used Eclipse IDE because it allows you to code both in React and python)
 * npm (We need to install this package manager to manage dependencies,run our frontend locally at 3000 port,etc)
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/npm%20start.PNG)
 
-### Setup
+## Setup
 Use npm install in the beginning to install all the necessary node dependencies (which can be found in package.json files of my root folder)
 npm start in the terminal to deploy our frontend locally at http://localhost:3000/
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/npm%20deployed.PNG)
 
-### Results:
-**UI Description**:-
+## Results:
+### UI Description
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/description.PNG)
 
 1. **Create**: You can create a person by clicking the button below our list of persons. After filling each field a new person will be added to our list of persons after we click on "Add Person" button.
