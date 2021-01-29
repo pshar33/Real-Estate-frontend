@@ -19,6 +19,7 @@ Eclipse IDE was used for development with Codemix plugin.
 
 ## Results:
 ### UI Description
+We can perform CRUD operations on the application. The main view of the application is the list of the leads/persons. We can perform Create,Update and Delete operations using the buttons shown in the screenshot. We can update,delete a specific lead by clicking the Update or Delete buttons for that lead. We can create a new lead by clicking on the Add button below our lead list.
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/description.PNG)
 
 1. **Create**: You can create a person by clicking the button below our list of persons. After filling each field a new person will be added to our list of persons after we click on "Add Person" button.
