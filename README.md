@@ -11,8 +11,10 @@ Eclipse IDE was used for development with Codemix plugin.
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/npm%20start.PNG)
 
 ## Setup
-Use npm install in the beginning to install all the necessary node dependencies (which can be found in package.json files of my root folder)
-npm start in the terminal to deploy our frontend locally at http://localhost:3000/
+### Create an empty directory in your IDE Workspace,install git and then check the version of git by typing "git --version" in your directory.
+### Clone my github repository to your local empty repository by typing "git clone -b master https://github.com/pshar33/Real-Estate-frontend.git " 
+### Type "npm install" (in your IDE's terminal or CMD of your local project directory) in the beginning to install all the necessary node dependencies (which can be found in package.json files of my root folder)
+### Navigate to the root folder and type "npm start" in the terminal to deploy our frontend locally at http://localhost:3000/
 ![alt text](https://github.com/pshar33/Real-Estate-frontend/blob/master/IMAGES/npm%20deployed.PNG)
 
 ## Results:
